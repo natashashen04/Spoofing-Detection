@@ -10,7 +10,7 @@ Synthetic dataset and spoofing detection code.
 
 This repository presents a Python pipeline for detecting order-book spoofing in
 financial futures markets. The methodology is modeled on the analytical framework
-I applied at **Analysis Group** while supporting a financial market manipulation
+I applied on a financial market manipulation
 case, and mirrors the four-step approach used in CFTC enforcement proceedings.
 
 The project demonstrates end-to-end data skills — synthetic data generation,
